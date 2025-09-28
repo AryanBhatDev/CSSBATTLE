@@ -1,0 +1,37 @@
+body {
+  background-color: #eddf5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-height: 200px;
+  max-width: 260px;
+  margin: 50 auto;
+}
+.main {
+  width: 260px;
+  height: 120px;
+  background: linear-gradient(to bottom, #e8625e 0%, #e8625e 50%, #323232 50%, #323232 100%);
+}
+.above {
+  background-color: #e8625e;
+  height: 40px;
+  max-width: 200px;
+  margin: 0 auto;
+}
+.aboveBlock {
+  background-color: #eddf5a;
+  height: 40px;
+  max-width: 80px;
+  margin: 0 auto;
+}
+.below {
+  background-color: #323232;
+  max-width: 200px;
+  margin: 0 auto;
+}
+.belowBlock {
+  background-color: #eddf5a;
+  height: 40px;
+  max-width: 80px;
+  margin: 0 auto;
+}
